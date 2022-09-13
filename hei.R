@@ -1,8 +1,8 @@
 #headline
 
-x <- rnorm(100)
-y <- rnorm(100)
+x <- rnorm(15)
+y <- rnorm(130)
 
 #important feature
 
-#new fweautre
+#new fweautre - adding 
