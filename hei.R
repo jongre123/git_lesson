@@ -8,3 +8,5 @@ y <- rnorm(130)
 #new fweautre - adding 
  
 #Noe nytt
+
+#heihei
